@@ -2,6 +2,8 @@
 
 Missile C# Scripts.
 
+[![Development Note p.287](https://img.youtube.com/vi/66NxsoICX8Y/0.jpg)](https://www.youtube.com/watch?v=66NxsoICX8Y)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
